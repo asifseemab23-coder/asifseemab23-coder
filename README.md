@@ -10,7 +10,7 @@ I'm learning and building websites with a focus on **clean, simple, and user-fri
 ## 🚀 About Me
 
 * 🌐 I'm learning **Web Design & Front-End Development**
-* 🧑‍💻 Currently working with **HTML & CSS**
+* 🧑‍💻 Currently working with **HTML,CSS & JAVASCRIPT**
 * 📚 Learning **JavaScript** step by step
 * 🎨 Interested in creating modern and responsive websites
 * 🛠️ I use **VS Code** for development
